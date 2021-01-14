@@ -1,0 +1,20 @@
+.profileLabel{
+    font-size: 20px;
+    color: white;
+    margin-left: 30%;
+    padding: 5%;
+}
+.profileLabelVlaue{
+    font-size: 35px;
+    color: black;
+    margin-left: 30%;
+    padding: 5%;
+}
+.paymentLabel{
+    font-size: 20px;
+    color: white;;
+}
+.paymentLabelValue{
+    font-size: 35px;
+    color: black;
+}
